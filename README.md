@@ -56,6 +56,11 @@ Please note that there are 3 files to this project.
 |cluster_0 to cluster_37|train_final/test_final|uint8|38 clusters base on trap location and numbers of mosquitos|
 
 
+## Modelling
+
+Using logistic regression as base model and XGBoost Classifier as the optimal model produces and AUC of 0.82. However the Kaggle score obtained is only 0.71. Thus we tried Pycaret which gives us LightGBM as the best model. The AUC score remains at 0.82 however the Kaggle score improves to 0.74 with latitude and longitude been the to 2 most important features.
+​
+
 ## Cost-Benefits analysis
 
 The cost benefit analysis will measure the cost of conducting regular spray exercise versus the cost of hospitalisation and lost productivity of West Nile Virus cases.
