@@ -15,18 +15,18 @@ Due to the endemic of West Nile Virus in Chicago, the Department of Public Healt
 Using the datasets available, this model will help the City of Chicago and CPHD more efficiently and effectively target spraying of specific neighbourhoods with higher risk of West Nile Virus. This can help the City of Chicago save costs while still keeping the virus at bay. Our model efficacy will be assessed by the Kaggle submission.
 
 Please note that there are 3 files to this project.
-- 1. Problem Statement, Data Cleaning and EDA
-- 2. Feature Engineering and Modelling
-- 3. Cost Benefit Analysis & Conclusion
+- 1.Problem Statement, Data Cleaning and EDA
+- 2.Feature Engineering and Modelling
+- 3.Cost Benefit Analysis & Conclusion
 
 
 ### Datasets
-* [`train.csv`](../assets/train.csv): Training set for training the model
-* [`test.csv`](../assets/test.csv): Test set for testing the model accuracy
-* [`weather.csv`](../assets/weather.csv): Weather set to complement the training set
-* [`spray.csv`](../assets/spray.csv): Spray set to indicate the spray info to complement the training set
-* [`sampleSubmission.csv`](../assets/sampleSubmission.csv): Sample set referenced for the Kaggle submission.
-* [`mapdata_copyright_openstreetmap_contributors.txt`](../assets/mapdata_copyright_openstreetmap_contributors.txt): Map data for the WNV areas
+* [`train.csv`](./assets/train.csv): Training set for training the model
+* [`test.csv`](./assets/test.csv): Test set for testing the model accuracy
+* [`weather.csv`](./assets/weather.csv): Weather set to complement the training set
+* [`spray.csv`](./assets/spray.csv): Spray set to indicate the spray info to complement the training set
+* [`sampleSubmission.csv`](./assets/sampleSubmission.csv): Sample set referenced for the Kaggle submission.
+* [`mapdata_copyright_openstreetmap_contributors.txt`](./assets/mapdata_copyright_openstreetmap_contributors.txt): Map data for the WNV areas
 
 
 ## Data Dictionary
