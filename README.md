@@ -93,7 +93,7 @@ Using the given dataset, we analysed the number of WNV cases in Chicago, the clu
 
 For instant, the feature 'month' gives a significant indicator in relationship with the number of WNV cases which indicated that the highest numbers of WNV present mostly appeared during the month of July, August and September. This could be due to July to September being the summer period for Chicago.
 
-Based on the scores returned from Pycarat, the best model is Light Gradient Boosting Machine with highest AUC score 0.8260. The higher the AUC score, the better the model's performance at distinguishing between the positive and negative classes.
+Based on the scores returned from Pycaret, the best model is Light Gradient Boosting Machine with highest AUC score 0.8260. The higher the AUC score, the better the model's performance at distinguishing between the positive and negative classes.
 
 ### Further Research
 
@@ -114,5 +114,5 @@ Despite of spraying the pesticide, the best way to prevent WNV disease is to red
 
 Recommend the use of drones in mosquito control with surveillance of nuisance mosquitos and potential vectors of pathogens. The insecticide application using drone to conduct surveillance and control in remote areas that are difficult to reach have been carried out by the GDG drone under the nuisance-reduction programme. The project was completed to nearly one thousand hectares of area producing mosquito larvae.
 
-- [Source](https://sensorsandsystems.com/west-nile-virus-and-mosquito-nuisance-prevention-with-a-uav/?utm_source=rss&utm_medium=rss&utm_campaign=west-nile-virus-and-mosquito-nuisance-prevention-with-a-uav)
-- [Source](https://www.terminix.com/blog/science-nature/drones-in-mosquito-control/)
+- [Source](https://sensorsandsystems.com/west-nile-virus-and-mosquito-nuisance-prevention-with-a-uav/?utm_source=rss&utm_medium=rss&utm_campaign=west-nile-virus-and-mosquito-nuisance-prevention-with-a-uav): West Nile Virus and Mosquito Nuisance Prevention with a UAV | Sensors and Systems
+- [Source](https://www.terminix.com/blog/science-nature/drones-in-mosquito-control/): Mosquito Drone Technology | Terminix
